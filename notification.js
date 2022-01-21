@@ -2,15 +2,15 @@ var data_bs = [],filter_data= [];
 data_bs = [{"Time":"8:00 - 8:50","1":"-","2":"UTA025 L -INNOVATIONS AND ENTERPRENEURSHIP,ECED2\/  ","3":"UEC404 L - SIGNALS AND SYSTEMS,ECED8\/  ","4":"UES018 L - MANUFACTURING TECHNIQUES,mee10\/  ","5":"UEC513 L - EMBEDDED SYSTEMS,ECED9\/"},
 {"Time":"8:50 - 9:40","1":"-","2":"UEC404 T - SIGNALS AND SYSTEMS,ECED8\/","3":"UEC301 L - ANALOG ELECTRONIC CIRCUITS,ECED9\/","4":"UMA035 L - OPTIMISATION TECHNIQUES,tietsom12\/","5":"UEC301 L - ANALOG ELECTRONIC CIRCUITS,ECED9\/"},
 {"Time":"9:40 - 10:30","1":"-","2":"UMA035 L - OPTIMISATION TECHNIQUES,tietsom12\/","3":"UMA035 L - OPTIMISATION TECHNIQUES,tietsom12\/","4":"UEC404 P - SIGNALS AND SYSTEMS,ECED8\/","5":"UES018 P - MANUFACTURING TECHNIQUES,mee13/"},
-{"Time":"10:30 - 11:20","1":"-","2":"-","3":"UEC513 L - EMBEDDED SYSTEMS,ECED9\/","4":"","5":""},
+{"Time":"10:30 - 11:20","1":"-","2":"-","3":"UEC513 L - EMBEDDED SYSTEMS,ECED9\/","4":"   ","5":"   "},
 {"Time":"11:20 - 12:10","1":"UMA035 P - OPTIMISATION TECHNIQUES,tietsom7\/","2":"UEC858 L - MODERN CONROL THEORY,ECED8\/","3":"UEC858 T - MODERN CONROL THEORY,ECED8\/","4":"UEC858 L - MODERN CONROL THEORY,ECED8\/","5":"-"},
-{"Time":"12:10 - 1:00","1":"","2":"UEC301 L - ANALOG ELECTRONIC CIRCUITS,ECED9\/","3":"-","4":"QUEC404 L - SIGNALS AND SYSTEMS,ECED8\/","5":"-"},
+{"Time":"12:10 - 1:00","1":"   ","2":"UEC301 L - ANALOG ELECTRONIC CIRCUITS,ECED9\/","3":"-","4":"QUEC404 L - SIGNALS AND SYSTEMS,ECED8\/","5":"-"},
 {"Time":"1:00 - 1:50","1":"-","2":"-","3":"-","4":"-","5":"UES018 L - MANUFACTURING TECHNIQUES,mee13\/ "},
 {"Time":"1:50 - 2:40","1":"UTA025 P - INNOVATIONS AND ENTERPRENEURSHIP,mee12\/","2":"-","3":"-","4":"UES018 P - MANUFACTURING TECHNIQUES,ECED15\/","5":"-"},
-{"Time":"2:40 - 3:30","1":"","2":"-","3":"-","4":"","5":"UEC513 P - EMBEDDED SYSTEMS,ECED8\/"},
-{"Time":"3:30 - 4:20","1":"UEC404 L - SIGNALS AND SYSTEMS,ECED8\/","2":"-","3":"-","4":"-","5":""},
+{"Time":"2:40 - 3:30","1":"   ","2":"-","3":"-","4":"   ","5":"UEC513 P - EMBEDDED SYSTEMS,ECED8\/"},
+{"Time":"3:30 - 4:20","1":"UEC404 L - SIGNALS AND SYSTEMS,ECED8\/","2":"-","3":"-","4":"-","5":"   "},
 {"Time":"4:20 - 5:10","1":"UEC513 L - EMBEDDED SYSTEMS,ECED9\/","2":"-","3":"-","4":"-","5":"UEC301 P - ANALOG ELECTRONIC CIRCUITS,ECED9\/"},
-{"Time":"5:10 - 6:00","1":"UEC301 L - ANALOG ELECTRONIC CIRCUITS,ECED9\/","2":"-","3":"-","4":"-","5":""}]
+{"Time":"5:10 - 6:00","1":"UEC301 L - ANALOG ELECTRONIC CIRCUITS,ECED9\/","2":"-","3":"-","4":"-","5":"   "}]
 
 
 var base = "https://tiet.zoom.us/my/"
